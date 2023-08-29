@@ -3,37 +3,28 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Staffing Service"
+    title: "Work with high talented experts"
+    text: "We've mastered the art of prioritizing the unique needs of both our valued clients and exceptional candidates. With a team of expert HR professionals, we're here to revolutionize your hiring experience at every level, from fresh talent to seasoned leadership."
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Information Security Service"
+    title: "Improve your security posture"
+    text: "At your service is our unwavering commitment to fortify your security strategy and programs. Our mission? To stand by your side, hand in hand, as we tackle potential threats head-on and introduce tailor-made solutions that align seamlessly with your distinctive business demands."
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Consultancy Service"
+    title: "Let us work for you"
+    text: "Our company provides a wide range of IT and cybersecurity solutions to help organizations improve their overall performance and security. We understand the complexities and challenges of today’s digital landscape and have the expertise and experience to help you navigate it"
 
     buttons: 
-      - label: "See live"
-        url: "#"
-
       - label: "Read more"
         url: "#"
