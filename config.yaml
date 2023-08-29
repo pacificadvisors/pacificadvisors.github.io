@@ -45,24 +45,20 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "Services"
+      url: "/services"
       weight: 2
 
-    - name: "Our team"
-      url: "/#"
+    - name: "About"
+      url: "/about"
       weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
 
     - name: "Blog"
       url: "/blog"
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Contact Us"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
@@ -75,10 +71,6 @@ menus:
     - name: "How we work"
       url: "/#"
       weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
 
     - name: "Pricing"
       url: "/#"

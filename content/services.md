@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Services"
 description = "PACIFIC TECH ADVISORS"
 date = "2022-02-28"
 aliases = ["about-us", "about-pta", "contact"]
