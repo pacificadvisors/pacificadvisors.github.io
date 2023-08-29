@@ -72,10 +72,6 @@ menus:
       url: "/#"
       weight: 2
 
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
     - name: "Blog"
       url: "/blog"
       weight: 5
